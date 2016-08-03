@@ -1,4 +1,4 @@
-## Def Con 2016 Linux Netctl DefCon-Secure
+## Def Con 2016 Linux Wpa_supplicant DefCon-Secure
 
 * Register a username and password at wifireg.defcon.org.
 * Download the DigiCert Root Certificate and install locally

@@ -34,3 +34,5 @@ WPAConfigSection=(
 	* Copy text after =
 	* Alter your netctl configuration from above, and replace "password="
 	* `'password="xxx"'` to `'password=hash:<INSERT HASH>'`
+* Execute `netctl start defcon-secure` to start the new profile.
+	* You will need to stop any existing configs, such as the hotel or your hotspot.

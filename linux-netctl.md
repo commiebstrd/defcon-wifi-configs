@@ -15,17 +15,17 @@ Connection=wireless
 Security=wpa-configsection
 IP=dhcp
 WPAConfigSection=(
-'priority=1'
-'ssid="DefCon"'
-'key_mgmt=WPA-PEAP'
-'eap=PEAP'
-'proto=RSN'
-'pairwise=CCMP'
-'group=CCMP'
-'phase2="auth=MSCHAPV2"'
-'identity="INSERT USERNAME"'
-'password="INSERT PLAINTEXT PASSWORD"'
-'ca_cert2="/etc/ssl/certs/digicert.pem"'
+	'priority=1'
+	'ssid="DefCon"'
+	'key_mgmt=WPA-PEAP'
+	'eap=PEAP'
+	'proto=RSN'
+	'pairwise=CCMP'
+	'group=CCMP'
+	'phase2="auth=MSCHAPV2"'
+	'identity="INSERT USERNAME"'
+	'password="INSERT PLAINTEXT PASSWORD"'
+	'ca_cert2="/etc/ssl/certs/digicert.pem"'
 )
 ```
 * Encrypted password (optional, but suggested)
